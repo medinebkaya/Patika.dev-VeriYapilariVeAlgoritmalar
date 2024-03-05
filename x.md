@@ -1,6 +1,6 @@
-Tabii ki! Aşağıda, sezgisel anlamaya dayalı bir blog gönderisi örneği bulunmaktadır:
 
-Başlık: Eğri Eğrilerle Tanışın: Parabol, Elips ve Hiperbol
+
+ Eğri Eğrilerle Tanışın: Parabol, Elips ve Hiperbol
 
 Giriş:
 Matematik, bazen karmaşık ve soyut gibi görünebilir, ancak aslında günlük hayatta sık sık karşılaştığımız kavramları açıklamak için kullanılan bir araçtır. Bu yazıda, eğrilerin ilginç dünyasına bir yolculuk yapacağız ve üç önemli eğri türüne, yani parabol, elips ve hiperbol'e göz atacağız.
